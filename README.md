@@ -31,10 +31,7 @@ sample provided by CAnD3.
 As part of McGill University, the CAND3 initiative has a license to use
 the data for the purposes of training. Those outside of McGill
 university should not use the data provided through CAND3\'s training
-activities for purposes not related to their CAND3 training. Trainees
-who belong to another DLI institution should re-download the data using
-the ODESI site using the login provided by their institution if they
-wish to make use of the data for other purposes.
+activities for purposes not related to their CAND3 training.
 
 **Instructions for Data Preparation and Analysis**
 
