@@ -8,9 +8,8 @@ intersection of disadvantaged social locations.
 This study examines quality housing at the intersection of social
 locations. We look at:
 
-1)  How do (1) immigrant status & visible minority status, (2) marital
-    status & parental status, and (3) gender & marital status affect the
-    probability of living in high quality dwelling.
+How do (1) immigrant status & visible minority status, (2) marital status & parental status, 
+and (3) gender & marital status affect the probability of living in high quality dwelling.
 
 Using the dataset from Canadian Census Health and Environment Cohort
 provided to CAnD3 by Statistics Canada, our analysis finds non-white
